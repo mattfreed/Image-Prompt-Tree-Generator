@@ -7,7 +7,7 @@
 This repository contains Python code to generate a tree of image prompts and the corresponding images. The program takes an initial prompt (or multiple prompts from a text file) and generates an image from each prompt. These images are then used to create new prompts, which are again used to generate new images, forming a tree structure.
 
 <div align="center">
-  <img src="/Diagrams/AIProcessVisual.jpg" width="400"/>
+  <img src="/Diagrams/AIProcessVisual.jpg" width="600"/>
 </div>
 
 ## Table of Contents
